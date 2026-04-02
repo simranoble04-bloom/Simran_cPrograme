@@ -1,6 +1,6 @@
 # Simran_cPrograme
 
- include <stdio.h>
+# include <stdio.h>
 # include <math.h>
 
 struct train_info {
